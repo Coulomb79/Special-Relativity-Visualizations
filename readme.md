@@ -7,6 +7,7 @@ Oliver Fechtig
 Fanny-Leicht-Gymnasium  
 Fanny-Leicht-Str. 13  
 70372 Stuttgart  
+Germany  
 
 
 
@@ -15,6 +16,9 @@ Prerequisites:
 * geogebra version:  5.0.134.0-3D  
     The current version can be found [here](https://www.geogebra.org/).
 
+CommandListConstructProtocol
+----------------------------
+A list of commands to be entered in GeoGebra. You can construct a 2+1D Minkowski diagram via these commands. 
     
 CoordinatesOfAnEvent
 ----------------------------
