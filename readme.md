@@ -8,38 +8,25 @@ Special-Relativity-Visualizations
 Author:
 -------
 Oliver Fechtig  
-Fanny-Leicht-Gymnasium
-usw
+Fanny-Leicht-Gymnasium  
+Fanny-Leicht-Str. 13  
+70372 Stuttgart  
 
 
 
 Prerequisites:
 --------------
-* geogebra version:  XXX.XXX  
+* geogebra version:  5.0.134.0-3D  
     The current version can be found [here](https://www.geogebra.org/).
-* other stuff
-* and another stuff
+
     
 
 MovingCircle-RestingObserver
 ----------------------------
-abstract text
+A relativistic moving circle is shwon in a 2+1D Minkowski diagram. You can set a resting observer in the resting frame S to get an idea of what the observer measures and sees, when the circle passes.
 
-This is a *very* **import** __detail__.
-
-### Instructions ###
-1. do this
-2. than do that
-3. and finally do this
 
 
 MovingSquare-RestingObserver
 ----------------------------
-abstract text
-
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.   
-
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.   
-
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.   
-
+A relativistic moving circle is shwon in a 2+1D Minkowski diagram. You can set a resting observer in the resting frame S to get an idea of what the observer measures and sees, when the circle passes.
