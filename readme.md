@@ -26,11 +26,11 @@ A relativistic moving point is moving in a 2+1D Minkowski diagram. The event coo
 
 MovingSquare-RestingObserver
 ----------------------------
-A relativistic moving square is shwon in a 2+1D Minkowski diagram. You can set a resting observer in the resting frame S to get an idea of what the observer measures and sees, when the square passes.  
+A relativistic moving square is shwon in a 2+1D Minkowski diagram. You can set an observer in the resting frame S to get an idea of what the observer measures and sees, when the square passes.  
 
 MovingCircle-RestingObserver
 ----------------------------
-A relativistic moving circle is shwon in a 2+1D Minkowski diagram. You can set a resting observer in the resting frame S to get an idea of what the observer measures and sees, when the circle passes.
+A relativistic moving circle is shwon in a 2+1D Minkowski diagram. You can set an observer in the resting frame S to get an idea of what the observer measures and sees, when the circle passes.
 
 
 
