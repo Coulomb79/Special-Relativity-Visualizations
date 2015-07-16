@@ -168,7 +168,9 @@ of the above mentioned bug.
     ct'_{coord}=Segment[A, CT'_{coord}]  
     SetColor[x'_{scale}, 1, 0, 0]  
     SetColor[ct'_{scale}, 0, 0, 1]  
-
+    x'_A=Distance[X'_{coord}, O] / (γ sqrt(v^2 + c^2)) sgn(x(X'_{coord}))  
+    ct'_A=Distance[CT'_{coord}, O] / (γ sqrt(v^2 + c^2)) sgn(z(CT'_{coord}))  
+    
 </section>
 
 ***END***
