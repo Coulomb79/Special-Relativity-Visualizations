@@ -8,13 +8,18 @@ Fanny-Leicht-Gymnasium
 Fanny-Leicht-Str. 13  
 70372 Stuttgart  
 Germany  
-
+Mail: fechtig@fanny-leicht.de
 
 
 Prerequisites:
 --------------
 * geogebra version:  5.0.134.0-3D  
     The current version can be found [here](https://www.geogebra.org/).
+    
+Notes:
+-----
+1) Some GUI elements may disappear using Linux or Mac OS, it seems to be a bug in GeoGebra. 
+2) Even using Windows, it's possible that some of the GUI elements disappear depending on the screen resolution. For best user interaction a screen resolution of 1920x1080 is recommended.    
 
 CommandListConstructProtocol
 ----------------------------
