@@ -13,7 +13,7 @@ Mail: fechtig@fanny-leicht.de
 
 Prerequisites:
 --------------
-* geogebra version:  5.0.134.0-3D  
+* geogebra version (at least):  5.0.134.0-3D  
     The current version can be found [here](https://www.geogebra.org/).
     
 Notes:
